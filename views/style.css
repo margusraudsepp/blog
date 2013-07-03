@@ -1,0 +1,19 @@
+/* --------------------------------------------- Tabel */
+table.kujundus {
+width:80%	;
+height:60%;
+}
+/* --------------------------------------------- Tabeli pealkiri */
+tr.pealkiri {
+background-color:darkblue;
+}
+
+tr.pealkiri:hover {
+background-color:blue;
+}
+
+/* --------------------------------------------- Tabeli sisu */
+tr.sisu {
+background-color:lightblue;
+
+}
