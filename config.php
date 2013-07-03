@@ -10,3 +10,6 @@ define('BASE_URL', '/blog/');
 define('ASSETS_URL', '/blog/assets/');
 
 ?>
+
+<link a href=http://localhost/blog/views/style.css rel=stylesheet type=text/css>
+

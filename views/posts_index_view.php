@@ -1,4 +1,4 @@
-<link a href=views/style.css rel=stylesheet type=text/css>
+
 <table class=kujundus align=center>
 <? foreach ($posts as $post) { ?>
 
